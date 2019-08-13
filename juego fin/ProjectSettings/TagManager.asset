@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  - MarcadorVida
+  - BalaJ
+  - Enemigo1
+  - Enemigo0
+  - Enemigo2
+  - Enemigo3
+  - Enemigo4
+  - Enemigo5
+  - Enemigo 6
+  - Enemigo7
+  - Enemigo8
+  - Enemigo9
+  - Enemigo10
+  - Enemigo11
+  - Enemigo12
+  - Enemigo13
+  - Enemigo14
+  - Vendas
+  - Vendas01
+  - Depredador
+  - Basura
+  - Trampa
+  - Comida
+  - Municion
+  - Municion1
+  - Velocidad
+  - Comida01
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
